@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Municipal Tax Collector</string>
+    <string name="google_play_services">Google play services are not available.</string>
+</resources>
